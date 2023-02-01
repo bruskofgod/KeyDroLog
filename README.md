@@ -33,8 +33,7 @@ Step 2: Press the Listen button and install the apk on the target device.<br>
 Step 3: After the apk is installed on the target device, accessibility permission should be granted.
 
 
-
-![Uploading Animation8.gif…]()
+![Animation8](https://user-images.githubusercontent.com/58754583/216034785-ebae01a3-6d9c-4e20-95a8-b8239daa955e.gif)
 
 
 
