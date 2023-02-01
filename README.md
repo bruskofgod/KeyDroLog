@@ -23,7 +23,6 @@ python3 start.py
 **Java (Openjdk 11)**<br>
 **Apktool v2.6.1**<br>
 **Python3**<br>
-**Python3-pip**<br>
 
 ### Tools Overview and Usage
 ![image](https://user-images.githubusercontent.com/58754583/216032354-dac55be4-5502-4471-9fbd-d5b53fccad32.png)<br>
