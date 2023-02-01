@@ -9,7 +9,7 @@ I am not responsible for any problems or damage caused by this program!!!
 Quick installation for Ubuntu, Kali Linux
 
 ```
-git clone https://github.com/emrechakar/KeyDroLog 
+git clone https://github.com/bruskofgod/KeyDroLog 
 
 cd KeyDroLog
 
@@ -25,9 +25,13 @@ python3 start.py
 **Python3**<br>
 **Python3-pip**<br>
 
-### Tools Overview
+### Tools Overview and Usage
+step 1: enter ip address or host address, then enter your port number.
+Step 2: Press the Listen button and install the apk on the target device.
+Step 3: After the apk is installed on the target device, accessibility permission should be granted.
 
 ![image](https://user-images.githubusercontent.com/58754583/216032354-dac55be4-5502-4471-9fbd-d5b53fccad32.png)
+
 
 
 
