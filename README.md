@@ -1,9 +1,9 @@
 # KeyDroLog
-##### KeyDroLog is an android keylogger generator. It listens to the device with a reverse shell.
+### KeyDroLog is an android keylogger generator. It listens to the device with a reverse shell.
 
 #### Disclaimer
 
-##### I am not responsible for any problems or damage caused by this program!!!
+#### I am not responsible for any problems or damage caused by this program!!!
 
 #### Installation
 Quick installation for Ubuntu, Kali Linux
