@@ -24,7 +24,7 @@ python3 start.py
 **Apktool v2.6.1**<br>
 **Python3**<br>
 
-### Tools Overview and Usage
+### Tool Overview and Usage
 **properties: captures all user-entered text and touches.**<br>
 **anti delete feature: prevents manual deletion.**<br>
 **hide app icon: hides its own icon after gaining accessibility (if non-default device launcher is available)**
