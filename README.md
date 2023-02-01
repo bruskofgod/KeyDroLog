@@ -23,6 +23,7 @@ python3 start.py
 **Java (Openjdk 11)**<br>
 **Apktool v2.6.1**<br>
 **Python3**<br>
+**ncat**
 
 ### Tool Overview and Usage
 
