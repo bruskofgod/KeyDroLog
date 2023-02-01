@@ -25,8 +25,8 @@ python3 start.py
 **Python3**<br>
 
 ### Tools Overview and Usage
-**properties: captures all user-entered text and touches.**
-**anti delete feature: prevents manual deletion.**
+**properties: captures all user-entered text and touches.**<br>
+**anti delete feature: prevents manual deletion.**<br>
 **hide app icon: hides its own icon after gaining accessibility (if non-default device launcher is available)**
 
 ![image](https://user-images.githubusercontent.com/58754583/216032354-dac55be4-5502-4471-9fbd-d5b53fccad32.png)<br>
