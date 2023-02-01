@@ -27,7 +27,7 @@ python3 start.py
 
 ### Tool Overview and Usage
 
-### step 1: **enter ip address or host address, then enter your port number.**<br>
+### step 1: **enter local ip address or host address, then enter your port number.**<br>
 ### Step 2: **Press the Listen button and install the apk on the target device.**<br>
 ### Step 3: **After the apk is installed on the target device, accessibility permission should be granted.**<br>
 
