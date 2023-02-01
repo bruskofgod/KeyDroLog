@@ -26,12 +26,15 @@ python3 start.py
 **Python3-pip**<br>
 
 ### Tools Overview and Usage
+![image](https://user-images.githubusercontent.com/58754583/216032354-dac55be4-5502-4471-9fbd-d5b53fccad32.png)<br>
+
 step 1: enter ip address or host address, then enter your port number.<br>
-Step 2: Press the Listen button and install the apk on the target device..<br>
+Step 2: Press the Listen button and install the apk on the target device.<br>
 Step 3: After the apk is installed on the target device, accessibility permission should be granted.
 
-![image](https://user-images.githubusercontent.com/58754583/216032354-dac55be4-5502-4471-9fbd-d5b53fccad32.png)
 
+
+![Uploading Animation8.gif…]()
 
 
 
